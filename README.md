@@ -1,3 +1,6 @@
+# Learning - C programming Language
+- Book : The C programming Language By Dennis Ritchie and Brian Kernighan
+- Goal : Finish all the exercises and try out all the codes give in the book and maybe build a usefull project out with C.
 
 ## Repo Structure
 - The Folder name xx.yy corresponds to ```xx is chapter``` and ```yy is section```
@@ -43,3 +46,10 @@ dont	= ( a +b) *(c+ d)
 do		= for()
 dont	= for ()
 ```
+
+## Projets to try
+- [] A network socket based project, maybe a pubsub server+client or a SSH server+client
+- [] A program to properly talk with LibUHD and record IQ samples
+- [] A GUI based program for simple user inputs, maybe a GUI based app for the above USRP program
+- [] A simple signal processing program, with IQ samples.
+- [] A terminal Utility
